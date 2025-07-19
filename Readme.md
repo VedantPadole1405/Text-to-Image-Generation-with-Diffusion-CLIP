@@ -1,7 +1,7 @@
 ////// Note //////////
 GradeScope 8.2: Our evaluation is based on prompts given by the users so there are no real images corresponding to the prompts.
 
-# Kavish Patel
+# Vedant Padole, Madhumita Katam, Kavish Patel
 # Dataset Setup for DiffusionCLIP
 
 This repository provides a dataset preparation utility for training and evaluating models such as DiffusionCLIP. It supports downloading, extracting, and reformatting **ImageNet-128** and **Tiny-ImageNet** datasets for machine learning workflows. It also includes a Jupyter Notebook for DiffusionCLIP-based image manipulation and translation tasks.
